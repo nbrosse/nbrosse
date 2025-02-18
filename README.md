@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for applied ma
 
 **Short Bio**
 
-I am a Data Scientist with expertise in applied mathematics and artificial intelligence. My professional experience spans diverse domains, including signal processing and anomaly detection at Thales, as well as drug discovery at Iktos. Throughout my career, I have been deeply involved in research and development, driven by a passion for innovation and the challenge of addressing complex problems.
+I am an AI Research Scientist with expertise in applied mathematics and artificial intelligence. My professional experience spans diverse domains, including signal processing and anomaly detection at Thales, as well as drug discovery at Iktos. Throughout my career, I have been deeply involved in research and development, driven by a passion for innovation and the challenge of addressing complex problems.
 
 **Nicolas' Notebook**
 
