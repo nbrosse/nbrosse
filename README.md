@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm an AI Research Scientist with a passion for applied mathematics, artificial intelligence, and exploring the broader tech landscape. Here, you'll find a collection of my projects, notes, and contributions to the open-source community.
+Welcome to my GitHub profile! I'm an AI Research Scientist with a passion for applied mathematics and artificial intelligence. Here, you'll find a collection of my projects, notes, and contributions to the open-source community.
 
 ### About Me
 
@@ -10,7 +10,7 @@ I am an AI Research Scientist working at the intersection of academic research a
 
 My career spans both applied research and real-world deployment. I began at Thales, working on time series analysis, signal processing, object detection, and anomaly detection. I later joined Iktos, where I designed deep learning models for drug discovery, before contributing to foundational biological models at MBZUAI and GenBio AI.
 
-In parallel with research, I maintain strong ties to industry and entrepreneurship. In 2025, I explored venture creation by developing proofs of concept for AI-driven decision-making tools, while freelancing on projects ranging from LLM observability platforms (Rollstack) to improving Retrieval-Augmented Generation systems (Clarifeye). I am driven by the challenge of translating cutting-edge theory into impactful, scalable AI systems.
+In parallel with research, I maintain strong ties to industry and entrepreneurship. In 2025, I explored venture creation by developing proofs of concept for AI-driven decision-making tools, while freelancing on projects ranging from LLM observability platforms (Rollstack) to improving Retrieval-Augmented Generation systems (Clarifeye).
 
 **Nicolas' Notebook**
 
@@ -20,6 +20,6 @@ This is a collection of my notes and thoughts on various topics. I'm using this 
 
 ### Let's Connect!
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas for collaboration. I'm always excited to connect with like-minded individuals and explore new opportunities in the tech world.
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas for collaboration.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicolas-brosse-984685a0/)
