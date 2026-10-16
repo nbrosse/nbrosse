@@ -13,12 +13,10 @@ Before that: a PhD in statistics on Langevin sampling, then six years building d
 
 ### Selected projects
 
-| | |
-|---|---|
-| **AI for mathematics** | [conjecture-search-template](https://github.com/human-ai-mathematics/conjecture-search-template) — agent-driven proof search where a claim is proved only after independent review · [kls-conjecture-search](https://github.com/human-ai-mathematics/kls-conjecture-search) · [latexfmt](https://github.com/nbrosse/latexfmt) — a LaTeX formatter that understands mathematics |
-| **Generative models** | [edm-error-propagation-code](https://github.com/nbrosse/edm-error-propagation-code) — code for [arXiv:2610.10190](https://arxiv.org/abs/2610.10190) · [flow-matching-notes](https://github.com/nbrosse/flow-matching-notes) |
-| **LLM systems & agents** | [haiku-shunt](https://github.com/nbrosse/haiku-shunt) · [pdf-parsing](https://github.com/nbrosse/pdf-parsing) · [pdf-rag](https://github.com/nbrosse/pdf-rag) · [llm-slide-deck](https://github.com/nbrosse/llm-slide-deck) · [llm-observability](https://github.com/nbrosse/llm-observability) |
-| **ML for science** | [mhcpred](https://github.com/nbrosse/mhcpred) · [raman-spectra](https://github.com/nbrosse/raman-spectra) |
+- **AI for mathematics** — [conjecture-search-template](https://github.com/human-ai-mathematics/conjecture-search-template) — agent-driven proof search where a claim is proved only after independent review · [kls-conjecture-search](https://github.com/human-ai-mathematics/kls-conjecture-search) · [latexfmt](https://github.com/nbrosse/latexfmt) — a LaTeX formatter that understands mathematics
+- **Generative models** — [edm-error-propagation-code](https://github.com/nbrosse/edm-error-propagation-code) — code for [arXiv:2610.10190](https://arxiv.org/abs/2610.10190) · [flow-matching-notes](https://github.com/nbrosse/flow-matching-notes)
+- **LLM systems & agents** — [haiku-shunt](https://github.com/nbrosse/haiku-shunt) · [pdf-parsing](https://github.com/nbrosse/pdf-parsing) · [pdf-rag](https://github.com/nbrosse/pdf-rag) · [llm-slide-deck](https://github.com/nbrosse/llm-slide-deck) · [llm-observability](https://github.com/nbrosse/llm-observability)
+- **ML for science** — [mhcpred](https://github.com/nbrosse/mhcpred) · [raman-spectra](https://github.com/nbrosse/raman-spectra)
 
 ### Latest posts
 
