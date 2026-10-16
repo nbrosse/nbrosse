@@ -22,12 +22,11 @@ Before that: a PhD in statistics on Langevin sampling, then six years building d
 
 ### Latest posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Tokens saved are not dollars saved: an A/B test of a Claude Code context shunt](https://nbrosse.github.io/posts/haiku-shunt/haiku-shunt.html) — Oct 2026
-- [AI agents on the KLS conjecture: a search mathematicians can trust and join](https://nbrosse.github.io/posts/human-ai-mathematics/human-ai-mathematics.html) — Oct 2026
-- [Mills ratios on manifolds: what Gaussian smoothing sees near a boundary](https://nbrosse.github.io/posts/boundary-layer/boundary-layer.html) — Aug 2026
-- [Closed-form flow matching: posterior concentration and softmax collapse](https://nbrosse.github.io/posts/posterior-concentration/posterior-concentration.html) — Jul 2026
-- [Flow matching as posterior averaging](https://nbrosse.github.io/posts/posterior-averaging/posterior-averaging.html) — May 2026
+<!-- BLOG-POST-LIST:START -->- [Tokens saved are not dollars saved: an A/B test of a Claude Code context shunt](https://nbrosse.github.io/posts/haiku-shunt/haiku-shunt.html) — Oct 2026 
+- [AI agents on the KLS conjecture: a search mathematicians can trust and join](https://nbrosse.github.io/posts/human-ai-mathematics/human-ai-mathematics.html) — Oct 2026 
+- [Mills ratios on manifolds: what Gaussian smoothing sees near a boundary](https://nbrosse.github.io/posts/boundary-layer/boundary-layer.html) — Aug 2026 
+- [Closed-form flow matching: posterior concentration and softmax collapse](https://nbrosse.github.io/posts/posterior-concentration/posterior-concentration.html) — Jul 2026 
+- [Flow matching as posterior averaging](https://nbrosse.github.io/posts/posterior-averaging/posterior-averaging.html) — May 2026 
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://nbrosse.github.io/blog.html)
